@@ -1,4 +1,4 @@
-# PSB&HSE Hack 2023
+# PSB&HSE Hack 2024
 ## Team: FineTuning
 
 ## Place: 
