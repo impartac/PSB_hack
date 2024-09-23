@@ -3,10 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-# Read Excel file
 df = pd.read_excel('train.xlsx')
 
-# Explore the data
 print(df.head())
 print(df.info())
 
